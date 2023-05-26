@@ -1,16 +1,15 @@
-### Hi there 👋
-<h1>😄 FREDRICK GYASI</h1>
-<!--
-**Fredrick-Gyasi/Fredrick-Gyasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Fredrick Gyasi
+#### I'm Designer and a Developer
+![I'm Designer and a Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+a passionate [your field/interest] enthusiast with a love for coding and problem-solving. I find joy in exploring innovative solutions and working on exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a background in [relevant experience/education], I have gained a solid foundation in [programming languages, frameworks, or tools]. I am constantly seeking opportunities to expand my knowledge and keep up with the latest industry trends.
+
+Skills: HTML / CSS / JS / PHP / DJANGO
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Fredrick-Gyasi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fredrick-gyasi-983a73270/)  
+

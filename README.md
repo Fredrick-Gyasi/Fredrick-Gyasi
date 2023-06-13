@@ -1,4 +1,3 @@
-# Hi there👋, I'm Fredrick Nana Gyasi . 
 <h1 align="center">Hi 👋, I'm Fredrick Nana Gyasi</h1>
 <h3 align="center">A passionate full stack developer from Ghana🇬🇭</h3>
 

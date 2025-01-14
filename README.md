@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fredrick Nana Gyasi</h1>
 <h3 align="center">A passionate backend developer from Ghana'Tadi'</h3>
 
-- 👨‍🎓 I’m recently Graduated from TTU **With Bsc in Information Technology**
+- 👨‍🎓 I’m recently Graduated from TTU **With HND in Information Technology**
 
 - 👨‍💻 All of my projects are available at [Fredg.github.oi](Fredg.github.oi)
 
